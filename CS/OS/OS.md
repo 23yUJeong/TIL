@@ -35,7 +35,7 @@
 
 **컴퓨터의 구조**
 
-![Untitled](./img/Untitled.png)
+![OS_1](./img/OS_1.png)
 
 - **Processor** : 일반적으로 CPU를 말함
 - **Main Memory**
@@ -44,14 +44,14 @@
 
 **부트 로더가 진행하는 모습**
 
-![Untitled1](./img/Untitled%201.png)
+![OS_2](./img/OS_2.png)
 
 - 위와 같은 상태가 되면 운영체제가 수행할 준비를 마친 것이다.
 - 운영체제가 종료하는 시점은 컴퓨터의 전원이 꺼지는 시점이다.
 
 **커널(Kernel)과 명령어 해석기(Command interpreter, shell)**
 
-![Untitled2](./img/Untitled%202.png)
+![OS_3](./img/OS_3.png)
 
 - 운영체제는 크게 커널과 명령어 해석기로 나뉜다.
 - **커널(Kernel)** : 운영체제의 핵심으로 **운영체제가 수행하는 모든 것**이 저장되어 있다.
@@ -59,7 +59,7 @@
 
 ### 3. 운영체제의 위치
 
-![Untitled3](./img/Untitled%203.png)
+![OS_4](./img/OS_4.png)
 
 - 애플리케이션은 위의 그림과 같이 운영체제 위에서 수행한다. 즉, 하드웨어 자원을 직접적으로 사용하지 않고 **운영체제가 제공하는 자원만을 사용할 수 있다.**
 
